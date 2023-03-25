@@ -7,13 +7,14 @@ h1 {
     text-align: center;
 	font-size: 50px;
 	padding: 1px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2 {
     color: #2042b2;
     text-align: center;
 	font-size: 15px;
-    font-style: italic;
+    font-family: 'Quicksand', sans-serif;
 }
 
 p {
@@ -21,7 +22,25 @@ p {
     text-align: center;
 	font-size: 25px;
 	padding: 10px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Quicksand', sans-serif;
 
 }
 
+.cabecalho-imagem{
+    width: 3%;
+}
+
+.cabecalho {
+    background-color: #2042b2;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 15px;
+}
