@@ -47,3 +47,18 @@ p {
 .Terra {
     width: 25%;
 }
+
+
+img.Terra{
+    float: left;
+    border: transparent thin solid;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+
+.socorro {
+    display: flex;
+    justify-content: center;
+}
