@@ -25,6 +25,14 @@ p {
     font-family: 'Quicksand', sans-serif;
 }
 
+a {
+    color: #582fdd;
+    text-align: center;
+	font-size: 25px;
+	padding: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
 .cabecalho-imagem{
     width: 3%;
 }
